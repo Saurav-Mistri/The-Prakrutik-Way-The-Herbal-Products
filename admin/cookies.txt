@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.datatables.net	TRUE	/	FALSE	1999999999	__cfduid	d88c2e89098a9de87a254cb6cb9c520741545387831
+jituchauhan.com	TRUE	/	FALSE	1999999999	wpSGCacheBypass	0
+
